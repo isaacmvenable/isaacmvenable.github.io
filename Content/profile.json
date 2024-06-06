@@ -28,10 +28,10 @@
 },
 "Project1": {
     "Title": "SmartSplits System Design",
-    "Desc": "This is a description of the project I created Spring 2024 for system design.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Desc": "This is a description of the project I created Spring 2024 for system design.<br><br>It has a GitHub repo.",
+    "GitHubRepo": "https://github.com/isaacmvenable/SmartSplits-SystemDesign",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": []
   },
   "Project2": {
     "Title": "Interesting Project 2",
