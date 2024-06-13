@@ -11,7 +11,7 @@
   "Phone": "(253) 286-8954",
   "Portfolio": "https://www.isaacmvenable.github.com",
   "LinkedIn": "https://www.linkedin.com/in/isaac-venable/",
-  "GitHub": "https://www.isaacmvenable.github.com"
+  "GitHub": "https://github.com/isaacmvenable"
 },
 "Experience": {
   "ExperienceText": "I've always had a passion for programming, and have been making my own games using various game engines for the last few years.",
@@ -32,5 +32,11 @@
     "GitHubRepo": "https://github.com/isaacmvenable/SmartSplits-SystemDesign",
     "MainImage": "P1Main.png",
     "DetailImages": []
-  }
+  },
+"Project2": {
+},
+"Project3": {
+},
+"Project4": {
+}
 }
