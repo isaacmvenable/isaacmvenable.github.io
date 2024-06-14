@@ -34,9 +34,24 @@
     "DetailImages": []
   },
 "Project2": {
+  "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "P2Main.png",
+    "DetailImages": []
 },
 "Project3": {
+  "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
 },
 "Project4": {
+  "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "P4Main.png",
+    "DetailImages": []
 }
 }
